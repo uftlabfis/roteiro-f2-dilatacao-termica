@@ -1,38 +1,74 @@
-# Template de Roteiro Experimental — LABFIS/UFT
+# Dilatação Térmica Linear
 
-> 🌐 **Acesse a versão web do roteiro:** [https://costandrad.github.io/uftlabfis-roteiro-web-template/](https://costandrad.github.io/uftlabfis-roteiro-web-template/)
+<p align="center">
+    <a href="https://uftlabfis.github.io/roteiro-f2-dilatacao-termica/" target="_blank"> <img src="https://img.shields.io/badge/🌐%20Acessar%20roteiro%20online-004A80?style=for-the-badge" alt="Acessar roteiro online"> 
+    </a> 
+</p>
 
-Este repositório contém o template em **Quarto Markdown (`.qmd`)** desenvolvido para a padronização, formatação e publicação web dos roteiros de atividades experimentais do **Laboratório de Física (LABFIS)** do Câmpus Universitário de Palmas, da Universidade Federal do Tocantins (UFT).
+Este repositório contém o roteiro experimental **Dilatação Térmica Linear**, desenvolvido em **Quarto Markdown (`.qmd`)** para as atividades experimentais do **Laboratório de Física (LABFIS)** do Câmpus Universitário de Palmas, da **Universidade Federal do Tocantins (UFT)**.
+
+O roteiro aborda o fenômeno da **dilatação térmica linear**, explorando a relação entre a variação de comprimento de um material, a variação de temperatura e o respectivo coeficiente de dilatação linear.
+
+---
+
+## 🔬 Sobre o experimento
+
+O experimento tem como objetivo investigar a **dilatação térmica de materiais sólidos** quando submetidos a variações de temperatura, permitindo determinar experimentalmente o **coeficiente de dilatação linear** de diferentes materiais.
+
+A atividade relaciona os resultados experimentais com o modelo teórico:
+
+$$
+\Delta L = L_0 \alpha \Delta T
+$$
+
+em que $L_0$ é o comprimento inicial, $\Delta L$ é a variação de comprimento, $\alpha$ é o coeficiente de dilatação linear e $\Delta T$ é a variação de temperatura.
 
 ---
 
 ## 🎨 Identidade Visual e Estilo
 
-O template utiliza a paleta de cores oficial extraída da marca do **LABFIS/UFT**:
+O roteiro utiliza a identidade visual do **LABFIS/UFT**, com uma apresentação voltada tanto para a utilização em laboratório quanto para a publicação digital.
 
-* **Azul Petróleo (`#004A80`):** Aplicado aos títulos de seções principais (`h1`, `h2`, `h3`).
-* **Verde Esmeralda (`#008577`):** Aplicado aos links e elementos de destaque interativos.
-* **Dourado (`#FDB913`) / Cinza (`#666666`):** Utilizados em detalhes estruturais e bordas.
-* **Tipografia e Texto:** Texto dos parágrafos justificado com hifenização automática para melhor leitura digital.
+- **Azul Petróleo (`#004A80`):** utilizado nos títulos e elementos estruturais principais.
+- **Verde Esmeralda (`#008577`):** utilizado em links e elementos interativos.
+- **Dourado (`#FDB913`) / Cinza (`#666666`):** utilizados em detalhes, bordas e elementos de apoio.
+- **Tipografia e texto:** parágrafos justificados e hifenização automática, proporcionando melhor legibilidade na versão digital.
 
 ---
 
 ## 🧩 Extensão Quarto (`uftlabfis`)
 
-Para a geração dos documentos em PDF, foi desenvolvida a extensão customizada **`uftlabfis`**. Ela utiliza o **Typst** como motor de renderização, garantindo uma compilação ultra-rápida, diagramação acadêmica moderna e alinhamento total à identidade visual do laboratório na versão impressa.
+Para a geração da versão em PDF, é utilizada a extensão customizada **`uftlabfis`**, desenvolvida para os roteiros experimentais do LABFIS.
+
+A extensão utiliza o **Typst** como mecanismo de renderização, proporcionando compilação rápida, diagramação moderna e integração com a identidade visual do laboratório.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-* [Quarto CLI](https://quarto.org/) — Gerador de documentos e sites estáticos.
-* **Typst** — Sistema de tipografia moderno para customização e renderização do formato PDF via extensão `uftlabfis`.
-* **HTML5 / CSS3** — Customização de layout web, regras de acessibilidade e remoção de sublinhados em links de imagem.
-* **LaTeX** — Renderização de equações e fórmulas físicas.
+- [Quarto CLI](https://quarto.org/) — sistema de publicação científica e técnica utilizado para geração das versões web e PDF.
+- **Typst** — sistema de tipografia utilizado na geração dos documentos PDF por meio da extensão `uftlabfis`.
+- **HTML5 / CSS3** — utilizados na estrutura e customização da versão web.
+- **LaTeX** — utilizado para a representação e renderização de equações matemáticas e físicas.
+- **GitHub Pages** — utilizado para a publicação da versão web do roteiro.
+
+---
+
+## 🌐 Versão Web
+
+A versão web do roteiro está disponível em:
+
+<p align="center">
+  <a href="https://uftlabfis.github.io/roteiro-f2-dilatacao-termica/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Acessar%20roteiro%20online-004A80?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar roteiro online">
+  </a>
+</p>
 
 ---
 
 ## 👥 Créditos e Autoria
 
-* **Conteúdo Acadêmico:** Equipe Técnica do LABFIS
-* **Desenvolvedor:** [Igo da Costa Andrade](https://github.com/costandrad) (2026)
+- **Conteúdo acadêmico:** Equipe Técnica do LABFIS
+- **Desenvolvimento e publicação:** [Igo da Costa Andrade](https://github.com/costandrad)
+- **Instituição:** Universidade Federal do Tocantins — UFT
+- **Ano:** 2026
