@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dilatação Térmica Linear",
+    "section": "",
+    "text": "A temperatura de um corpo está associada ao grau de agitação térmica de suas moléculas. , fazendo com que o corpo apresente alteração em suas dimensões. Esse fenômeno é denominado dilatação térmica Halliday; Resnick; Walker (2016).\nO fenômeno físico da dilatação tem várias aplicações práticas. Em pontes e ferrovias, utilizam-se juntas de dilatação — pequenas folgas que evitam trincas e rupturas causadas pela variação de temperatura. Já os fios elétricos não são instalados totalmente esticados, pois precisam de folga para suportar a contração em dias frios.\nEm geral, a dilatação ocorre em todas as direções (dilatação volumétrica). Porém, quando uma dimensão é muito menor que as outras, ela pode ser desprezada: em chapas, considera-se apenas a área (dilatação superficial) e, em fios, apenas o comprimento (dilatação linear).\nPara o caso da dilatação linear, consideremos uma haste de comprimento inicial \\(L_0\\) à temperatura inicial \\(\\theta_0\\). Se a haste sofre uma variação de temperatura até a temperatura final \\(\\theta\\), observamos que seu comprimento passa a ser \\(L\\). Conforme Halliday; Resnick; Walker (2016), tem-se:\n\\[\n  \\Delta L = \\alpha L_0 \\Delta \\theta\n\\tag{1}\\]\nem que \\(\\Delta L = L - L_0\\) é a variação de comprimento sofrida pela haste; \\(\\Delta \\theta = \\theta - \\theta_0\\) é a variação de temperatura. O parâmetro \\(\\alpha\\) é denominado coeficiente de dilatação linear e é característico do material de que é constituída a haste. A Tabela 1 mostra o coeficiente de dilatação linear de alguns materiais.\n\n\n\nTabela 1: Coeficiente de dilatação linear de alguns materiais\n\n\n\n\n\n\n\n\n\nMaterial\n\\(\\alpha\\) (\\(^\\circ\\)C\\(^{-1}\\))\n\n\n\n\nAlumínio\n\\(2,3 \\times 10^{-5}\\)\n\n\nLatão\n\\(1,9 \\times 10^{-5}\\)\n\n\nCobre\n\\(1,7 \\times 10^{-5}\\)\n\n\nFerro\n\\(1,2 \\times 10^{-5}\\)\n\n\nAço\n\\(1,1 \\times 10^{-5}\\)\n\n\nPlatina\n\\(0,9 \\times 10^{-5}\\)\n\n\n\n\n\n\n\nFonte: Halliday; Resnick; Walker (2016)"
+  },
+  {
+    "objectID": "index.html#introdução",
+    "href": "index.html#introdução",
+    "title": "Dilatação Térmica Linear",
+    "section": "",
+    "text": "A temperatura de um corpo está associada ao grau de agitação térmica de suas moléculas. , fazendo com que o corpo apresente alteração em suas dimensões. Esse fenômeno é denominado dilatação térmica Halliday; Resnick; Walker (2016).\nO fenômeno físico da dilatação tem várias aplicações práticas. Em pontes e ferrovias, utilizam-se juntas de dilatação — pequenas folgas que evitam trincas e rupturas causadas pela variação de temperatura. Já os fios elétricos não são instalados totalmente esticados, pois precisam de folga para suportar a contração em dias frios.\nEm geral, a dilatação ocorre em todas as direções (dilatação volumétrica). Porém, quando uma dimensão é muito menor que as outras, ela pode ser desprezada: em chapas, considera-se apenas a área (dilatação superficial) e, em fios, apenas o comprimento (dilatação linear).\nPara o caso da dilatação linear, consideremos uma haste de comprimento inicial \\(L_0\\) à temperatura inicial \\(\\theta_0\\). Se a haste sofre uma variação de temperatura até a temperatura final \\(\\theta\\), observamos que seu comprimento passa a ser \\(L\\). Conforme Halliday; Resnick; Walker (2016), tem-se:\n\\[\n  \\Delta L = \\alpha L_0 \\Delta \\theta\n\\tag{1}\\]\nem que \\(\\Delta L = L - L_0\\) é a variação de comprimento sofrida pela haste; \\(\\Delta \\theta = \\theta - \\theta_0\\) é a variação de temperatura. O parâmetro \\(\\alpha\\) é denominado coeficiente de dilatação linear e é característico do material de que é constituída a haste. A Tabela 1 mostra o coeficiente de dilatação linear de alguns materiais.\n\n\n\nTabela 1: Coeficiente de dilatação linear de alguns materiais\n\n\n\n\n\n\n\n\n\nMaterial\n\\(\\alpha\\) (\\(^\\circ\\)C\\(^{-1}\\))\n\n\n\n\nAlumínio\n\\(2,3 \\times 10^{-5}\\)\n\n\nLatão\n\\(1,9 \\times 10^{-5}\\)\n\n\nCobre\n\\(1,7 \\times 10^{-5}\\)\n\n\nFerro\n\\(1,2 \\times 10^{-5}\\)\n\n\nAço\n\\(1,1 \\times 10^{-5}\\)\n\n\nPlatina\n\\(0,9 \\times 10^{-5}\\)\n\n\n\n\n\n\n\nFonte: Halliday; Resnick; Walker (2016)"
+  },
+  {
+    "objectID": "index.html#objetivos",
+    "href": "index.html#objetivos",
+    "title": "Dilatação Térmica Linear",
+    "section": "Objetivos",
+    "text": "Objetivos\n\nVerificar que as dimensões dos materiais dependem da temperatura a qual estão submetidos;\nDeterminar o coeficiente de dilatação linear de um corpo de prova tubular metálico, utilizando um dilatômetro linear."
+  },
+  {
+    "objectID": "index.html#material-necessário",
+    "href": "index.html#material-necessário",
+    "title": "Dilatação Térmica Linear",
+    "section": "Material Necessário",
+    "text": "Material Necessário\n\n\n\n\nFigura 1: Conjunto para estudo da dilatação linear\n\n\n\n\n\n\n\nFonte: Labfis (2026)\n\n\n\nUm dilatômetro linear composto por base sustentação horizontal única, esperas posicionadoras, e relógio comparador com precisão de 0,01 mm (1);\ngerador elétrico de vapor dotado de conexão para corpo de prova (2);\ntrês corpos de prova metálicos tubulares de materiais diferentes (3);\ntermômetro ou multímetro digital com função de medição de temperatura (4);\nágua."
+  },
+  {
+    "objectID": "index.html#referências",
+    "href": "index.html#referências",
+    "title": "Dilatação Térmica Linear",
+    "section": "Referências",
+    "text": "Referências\n\n\nHALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física: Gravitação, Ondas e Termodinâmica. 10. ed. Rio de Janeiro: LTC, 2016. v. 2"
+  }
+]
