@@ -44,11 +44,11 @@ other-links:
 ## Introdução
 
 
-A temperatura de um corpo está associada ao grau de agitação térmica de suas moléculas. , fazendo com que o corpo apresente alteração em suas dimensões. Esse fenômeno é denominado *dilatação térmica* @Halliday2.
+A temperatura de um corpo está associada à agitação térmica de suas moléculas, cuja variação provoca alterações em suas dimensões — fenômeno denominado *dilatação térmica* @Halliday2.
 
 O fenômeno físico da dilatação tem várias aplicações práticas. Em pontes e ferrovias, utilizam-se juntas de dilatação — pequenas folgas que evitam trincas e rupturas causadas pela variação de temperatura. Já os fios elétricos não são instalados totalmente esticados, pois precisam de folga para suportar a contração em dias frios.
 
-Em geral, a dilatação ocorre em todas as direções (_dilatação volumétrica_). Porém, quando uma dimensão é muito menor que as outras, ela pode ser desprezada: em chapas, considera-se apenas a área (_dilatação superficial_) e, em fios, apenas o comprimento (_dilatação linear_).
+Embora a dilatação ocorra tridimensionalmente (_dilatação volumétrica_), quando uma ou duas dimensões são predominantemente maiores que as demais, o fenômeno pode ser aproximado como _superficial_ (duas dimensões) ou _linear_ (uma dimensão).
 
 Para o caso da _dilatação linear_, consideremos uma haste de comprimento inicial $L_0$ à temperatura inicial $\theta_0$. Se a haste sofre uma variação de temperatura até a temperatura final $\theta$, observamos que seu comprimento passa a ser $L$. Conforme @Halliday2, tem-se:
 
@@ -120,11 +120,11 @@ em que $\Delta L = L - L_0$ é a variação de comprimento sofrida pela haste; $
 = Introdução
 
 
-A temperatura de um corpo está associada ao grau de agitação térmica de suas moléculas. , fazendo com que o corpo apresente alteração em suas dimensões. Esse fenômeno é denominado *dilatação térmica* @Halliday2.
+A temperatura de um corpo está associada à agitação térmica de suas moléculas, cuja variação provoca alterações em suas dimensões — fenômeno denominado *dilatação térmica* @Halliday2.
 
 O fenômeno físico da dilatação tem várias aplicações práticas. Em pontes e ferrovias, utilizam-se juntas de dilatação — pequenas folgas que evitam trincas e rupturas causadas pela variação de temperatura. Já os fios elétricos não são instalados totalmente esticados, pois precisam de folga para suportar a contração em dias frios.
 
-Em geral, a dilatação ocorre em todas as direções (_dilatação volumétrica_). Porém, quando uma dimensão é muito menor que as outras, ela pode ser desprezada: em chapas, considera-se apenas a área (_dilatação superficial_) e, em fios, apenas o comprimento (_dilatação linear_).
+Embora a dilatação ocorra tridimensionalmente (_dilatação volumétrica_), quando uma ou duas dimensões são predominantemente maiores que as demais, o fenômeno pode ser aproximado como _superficial_ (duas dimensões) ou _linear_ (uma dimensão).
 
 Para o caso da _dilatação linear_, consideremos uma haste de comprimento inicial $L_0$ à temperatura inicial $theta_0$. Se a haste sofre uma variação de temperatura até a temperatura final $theta$, observamos que seu comprimento passa a ser $L$. Conforme #cite(<Halliday2>, form: "prose"), tem-se:
 
@@ -231,7 +231,7 @@ $<eq-dilatacao-linear>
 
 #set enum(start: 9)
 
-+ Assim que o ponteiro do relógio comparador estabilizar, anote a temperatura $theta$ no ponto de saída do gerador de vapor. Esta será a temperatura final. Em seguida,  anote a variação de comprimento $Delta L$ sofrida pelo corpo de prova, mostrado no relógio comparador do dilatômetro. Preencha os campos correspondentes da @tbl-dados.
++ Assim que o ponteiro do relógio comparador estabilizar, anote a temperatura $theta$. Esta será a temperatura final. Em seguida,  anote a variação de comprimento $Delta L$ sofrida pelo corpo de prova, mostrado no relógio comparador do dilatômetro. Preencha os campos correspondentes da @tbl-dados.
 
 + Repita os passos acima para os corpos de prova 2 e 3.
 
@@ -258,7 +258,7 @@ $<eq-dilatacao-linear>
 + Utilize a @eq-desvio-perc para determinar o erro percentual entre o valor teórico e o valor experimental determinado acima. Preencha a @tbl-resultados.
 
   $
-    Delta "Erro" (%) = abs( (alpha_("exp") - alpha_("teo")) / alpha_"teo") times 100 %
+    "Erro" (%) = abs( (alpha_("exp") - alpha_("teo")) / alpha_"teo") times 100 %
   $<eq-desvio-perc>
 
 + Repita os passos acima para os corpos 2 e 3, completando a @tbl-resultados.
